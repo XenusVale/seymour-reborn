@@ -1,10 +1,14 @@
-# seymour-reborn
- 1. Download "Seymour Reborn.rar" from here.
-(100.3MB) (Updated: 08/15/24) (Version: 1.0 Release)
-You may have to click "Download Anyway" due to the file size
+# Seymour Reborn
+To Install:
+ 1. Click "Seymour Reborn v1.0.1" under Releases
+ 2. Click "Seymour.Reborn.zip"
+ 3. Navigate to your Downloads
+ 4. Unzip/Extract the "Seymour.Reborn" folder to anywhere convenient
+ 5. Double click on the "Start Here" folder
+ 6. Double click "Seymour Reborn Installer"
+ 7. If your files are in a strange location, you may have to navigate to your FFX_Data file, which is normally located at C:\Program Files\Steam\steamapps\common\FINAL FANTASY FFX&FFX-2 HD Remaster\data\FFX_Data.vbf
 
-2. Unzip/Extract the "Seymour Reborn" Folder to anywhere convenient
-
-3. Inside the "Seymour Reborn" Folder, is the "Start Here" Folder, inside that folder, launch the "Seymour Reborn Installer"
-The installer will automatically detect the location of your FFX files and modify them
-If your files are in a strange location, you may have to navigate to your FFX_Data file, which is normally located at C:\Program Files\Steam\steamapps\common\FINAL FANTASY FFX&FFX-2 HD Remaster\data\FFX_Data.vbf
+To Play:
+ 1. Launch Seymour Reborn as Administrator (keep this open during all your play sessions)
+ 2. Launch Final Fantasy X HD Remastered
+ 3. Play FFX!
