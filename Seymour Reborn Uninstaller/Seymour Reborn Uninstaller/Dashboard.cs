@@ -4,8 +4,7 @@
  *                                  
  * XenusVale presents:
  * 
- *      Final Fantasy X: Sin Reborn
- * 
+ *      Final Fantasy X: Seymour Reborn
  */
 
 using System;
