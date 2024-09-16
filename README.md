@@ -1,6 +1,6 @@
 # Seymour Reborn
 To Install:
- 1. Click "Seymour Reborn v1.0.1" under Releases
+ 1. Click "Seymour Reborn v1.0.2" under Releases
  2. Click "Seymour.Reborn.zip"
  3. Navigate to your Downloads
  4. Unzip/Extract the "Seymour.Reborn" folder to anywhere convenient
