@@ -99,7 +99,7 @@ namespace Seymour_Reborn_App
             {
                 string sinRebornPath = System.Reflection.Assembly.GetEntryAssembly().Location; //If Sin Reborn is in the same folder, try to open it
                 sinRebornPath = sinRebornPath.Remove(sinRebornPath.Length - 18);
-                sinRebornPath += "Sin Reborn.exe";
+                sinRebornPath += "Sin.Reborn.exe";
                 try
                 {
                     Process.Start(sinRebornPath);
